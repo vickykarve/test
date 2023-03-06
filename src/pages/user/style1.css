@@ -1,0 +1,47 @@
+.OuterBox{
+    height: 100vh;
+    background-color: #B8BBC6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.innerBox{
+    height: 70%;
+    width: 40%;
+    padding-top: 10px;
+    display: flex;
+    border: 1px solid black;
+    background-color: white;
+    justify-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+.labelText{
+    font-size: larger;
+
+}
+.nameInput{
+    width: 300px;
+    height: 30px;
+}
+.subBox{
+    margin: 10px 0;
+}
+.smallInput{
+    width:100px;
+    height: 30px;
+}
+.cvvexpBox{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.amountInput{
+    width: 150px;
+    height: 30px;
+}
+.payButton{
+    width: 150px;
+    height: 50px;
+    margin-top: 40px;
+}

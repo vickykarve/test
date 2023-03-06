@@ -1,0 +1,74 @@
+[
+    {
+      "catergory": "Maid Services",
+  
+      "services": [
+        {
+          "name": "House maid"
+        },
+        {
+          "name": "Cook"
+        },
+        {
+          "name": "Baby Sitter"
+        },
+        {
+          "name": "Elder Care"
+        },
+        {
+          "name": "Nurse"
+        },
+        {
+            "name": "Patient Caretaker"
+        }
+      ]
+    },
+
+    {
+        "catergory": "Repair Services",
+    
+        "services": [
+          {
+            "name": "Refrigerator Repair"
+          },
+          {
+            "name": "Washing Machine Repair"
+          },
+          {
+            "name": "Ac Repair"
+          }
+        ]
+    },
+    
+    {
+        "catergory": "Pest Control Services",
+    
+        "services": [
+          {
+            "name": "General Pest Control"
+          },
+          {
+            "name": "Deep Pest Control"
+          }
+        ]
+    },
+
+    {
+        "catergory": "Home Services",
+    
+        "services": [
+          {
+            "name": "Electrican"
+          },
+          {
+            "name": "Plumber"
+          },
+          {
+            "name": "Carpenter"
+          }
+        ]
+    }
+
+
+
+  ]
